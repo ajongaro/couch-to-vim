@@ -21,7 +21,6 @@ def oof(ardxvark)
   # Now, delete everything except the 'x' (ard and vark) so that only 'x' remains.
 end
 
-
 def more_practice(x)
   # use `hjkl` and `x` to navigate to, and delete all of these x's
   x                       x           
@@ -31,3 +30,5 @@ def more_practice(x)
       x             x                                                   x
   x           x                                   x
 end
+
+# Nice! Now you know how to navigate around one space at a time and delete one character at a time.

@@ -1,29 +1,21 @@
-# We're Not Normal
+# We're Not Normal Anymore
 
 Now that you know the four most basic movements in `-NORMAL-` mode, I imagine you'll want to _actually type something_ now.
 
 To do that, you'll need to enter `-INSERT-` mode using the `i` key.
 Just think "_i_ want to type something".
 
-By default, you'll be in `-NORMAL-` mode.
-This allows you to navigate a text file using keys that would normally type _letters_ in your editor.
+When you're done typing, hit `Escape (Esc)` to return back to `-NORMAL-` and navigate away.
 
-For example:
-`h` moves your cursor to the left.
-`l` moves your cursor to the right.
-`j` moves your cursor down.
-`k` moves your cursor up.
+In `-INSERT-` mode, your editor behaves exactly like you're used to.
+For now, try to avoid staying in this mode too long, and don't use the arrow keys if possible.
 
-          ↑
-          k 
-      ← h   l →
-          j
-          ↓
+So you know how to move around with `hjkl` and delete the character under the cursor with `x`.
+And now, type whatever you want using `i` to enter `-INSERT-` mode, and `Esc` to return to normal mode. 
 
-Those are the first four _movement_ keys you'll need to know.
-Expect to spend a day or two practicing the muscle memory needed for those four keys.
-It's goofy at first, but you'll get fast.
+Yes, you're going to be hitting escape a lot — which is why most people change the `Caps-lock` key to `Escape`.
+Learn how (and why) to do this on Mac in this [video](https://www.youtube.com/shorts/OCBJQMgkogc).
 
-I recommend playing the first few _free_ levels of [vim-adventures](www.vim-adventures.com) as a way to begin building that muscle memory.
+Go back to [Stage One Ruby](/stage_one.rb) and fill in the parameters with some new variable names (where x used to be) to practice insert!
 
-Move on to [Stage Two](/stage_two.md) when you're ready. Good luck!
+Then, move on to [Stage Three](/stage_three.md) when you're ready. Good luck!

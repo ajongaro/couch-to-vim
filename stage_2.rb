@@ -1,5 +1,6 @@
-# Enable the Vim Extension and practice navigating in NORMAL mode with your HJKL's
-# Move the cursor over the x parameter in each method!
+# Use your hjkl navigation skills, delete with x, and -INSERT- mode to change the parameter names to 'insert'
+# Move the cursor over the x parameter in each method.
+# You're about to learn something new, too - numbers!
 
 def practice(x)
   # When in doubt, hit Esc to return to NORMAL mode.
@@ -13,22 +14,33 @@ def short(x)
   # How about now?
 end
 
-def delete_the_extra_x(xx)
-  # In NORMAL mode, delete one 'x' under the cursor using the 'x' key.
+def delete_the_extra_x_with_2x(xx)
+  # Vim uses numbers to repeat motion commands.
+  # for example: to delete both xx's above, type `2x` in normal mode.
 end
 
 def oof(ardxvark)
-  # Now, delete everything except the 'x' (ard and vark) so that only 'x' remains.
+  # How would you delete the first four (ardx) letters of this parameter name?
+  # Place your cursor on the 'a' and type 4x.
 end
 
 def more_practice(x)
-  # use `hjkl` and `x` to navigate to, and delete all of these x's
-  x                       x           
-    x         x
+  # This works for (pretty much) all Vim motions and actions.
+  # Try using `4l` below to go right four spaces.
+  # How about `8j` to hop down 8 rows? `3k` to go up 3 rows?
+
+  x # <- go from this x
+             
 
 
-      x             x                                                   x
-  x           x                                   x
+                                                                      
+  x # <- to this one with two keys (a number, and a direction)
+
+  # do the same below, hop from the x to the other x with a number and a direction
+  x12345678x
+  x1234x
+  x  x
+  x x
 end
 
-# Nice! Now you know how to navigate around one space at a time and delete one character at a time.
+# Nice work. Now you understand how to repeat commands, move with hjkl, delete single characters, and type whatever you want!  

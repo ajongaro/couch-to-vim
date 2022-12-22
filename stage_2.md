@@ -16,6 +16,6 @@ And now, type whatever you want using `i` to enter `-INSERT-` mode, and `Esc` to
 Yes, you're going to be hitting escape a lot — which is why most people change the `Caps-lock` key to `Escape`.
 Learn how (and why) to do this on Mac in this [video](https://www.youtube.com/shorts/OCBJQMgkogc).
 
-Go back to [Stage One Ruby](/stage_one.rb) and fill in the parameters with some new variable names (where x used to be) to practice insert!
+Go back to [Stage One Ruby](/stage_2.rb) and fill in the parameters with some new variable names (where x used to be) to practice insert!
 
-Then, move on to [Stage Three](/stage_three.md) when you're ready. Good luck!
+Then, move on to [Stage Three](/stage_3.md) when you're ready. Good luck!

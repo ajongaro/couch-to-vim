@@ -42,5 +42,3 @@ def more_practice(x)
   x  x
   x x
 end
-
-# Nice work. Now you understand how to repeat commands, move with hjkl, delete single characters, and type whatever you want!  

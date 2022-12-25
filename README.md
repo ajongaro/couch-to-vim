@@ -1,5 +1,5 @@
-# Couch To Vim
-Learn the Vim essentials so you can flip that switch and never look back.
+# Couch To Vim (for VS Code)
+Learn the essentials so you can flip that Vim plugin 'enable' switch and never look back.
 
 ## What Is Vim?
 Vim, which stands for Vi Improved, is a popular open source text editor.
@@ -18,6 +18,6 @@ The best part, is that no matter what happens to your current IDE (RIP Atom) the
 
 Ready to start your vim journey with vigor?
 Go ahead and install the [Vim Extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) for VS Code.
-You can always disable it if you need to.
+You can always disable it if you need to take a break.
 
 Ready? Let's [get started](/stage_1.md).

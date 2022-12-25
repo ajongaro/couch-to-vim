@@ -21,6 +21,6 @@ In `-NORMAL-` mode...
 And just like the stage_2 exercise, you can add a number before the movement to repeat it.
 `2w` moves you to the beginning of the word after next, just like hitting `w` twice.
 
-This is where things start getting pretty spicy.
+This is where things start getting pretty spicy, but it's also _just the beginning_ of your potential horizontal speed.
 
-To be continued...
+Hit up [Stage Three Ruby](/stage_3.rb) for some practice and a new skill that leverages `web`.

@@ -24,7 +24,7 @@ It's goofy at first, but you'll get fast before you know it!
 
 Try practicing with this [Ruby file](/stage_1.md) and then...
 
-Play the first _free_ level of [vim-adventures](www.vim-adventures.com) as a way to build that muscle memory.
+Play the first _free_ level of [vim-adventures](https://www.vim-adventures.com) as a way to build that muscle memory.
 You don't need to buy the game, just replay the first few levels until your `hjkl`s start feeling more comfortable.
 
 Move on to [Stage Two](/stage_2.md) when you're ready. Good luck!

@@ -16,7 +16,9 @@ def short(x)
   # Use `w` to navigate to the beginning of the word `black` and delete the 'b' with `x`
     orange orange orange orange black orange orange
   # Then, hit `e` to move to the end of the word 'black' and delete the 'k'  with `x`
-  # See how you can use w/e/b to hit different parts of the word? `b` just goes _back_.
 end
 
-# To be continued...
+def delete_word(param)
+  # Combo Alert! Delete the above method name by starting on the 'd' of delete_word and hit `dw`
+  # Now that you know what a word is, you can combine that motion with actions like 'delete'!
+end
